@@ -6,10 +6,12 @@ body {
     font-size: 11px; 
     text-align: center; 
     position: fixed;
+    background-color: aliceblue;
     left: 0px;
     bottom: 0px;
     height: 30px;
     width: 100%;
+    padding-top: 15px;
 }
 
 .attribution a {
